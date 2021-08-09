@@ -19,7 +19,7 @@ class Test_feladat01():
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(lokatorok.url01)
 
-    def test_tesztel(self, a, b, c): #Az a és b bemenőkkel c-t kell kapnia.
+    def test_tesztel(self, a, b, c):  # Az a és b bemenőkkel c-t kell kapnia.
         self.amezo = self.driver.find_element_by_xpath(lokatorok.a01)
         self.amezo.clear()
         self.amezo.send_keys(a)
@@ -35,15 +35,25 @@ class Test_feladat01():
 class Test_feladat02():
     def __init__(self):
         self.options = Options()
-        # options.headless = True
+        self.options.headless = True
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(lokatorok.url02)
+
+    def test_tesztel(self):  # Hadd menjen!
+        for i in range(99):  # 100 kattintás.
+            self.driver.find_element_by_id(lokatorok.submit02).click()
+        self.lista = self.driver.find_element_by_id(lokatorok.ul02).find_elements_by_xpath("//li")
+        self.hanyfej = 0
+        for elem in self.lista:
+            if elem.text == "fej":  # Ha fej, +1-
+                self.hanyfej += 1
+        return self.hanyfej >= 30
 
 
 class Test_feladat03():
     def __init__(self):
         self.options = Options()
-        # options.headless = True
+        self.options.headless = True
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(lokatorok.url03)
 
@@ -59,6 +69,6 @@ class Test_feladat04():
 class Test_feladat05():
     def __init__(self):
         self.options = Options()
-        # options.headless = True
+        self.options.headless = True
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(lokatorok.url05)
