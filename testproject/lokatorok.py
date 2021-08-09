@@ -13,8 +13,12 @@ submit02 = "submit"
 ul02 = "results"
 
 # 3. feladat
-url03 = " https://black-moss-0a0440e03.azurestaticapps.net/ioa8.html "
-submit03= ""
+url03 = "https://black-moss-0a0440e03.azurestaticapps.net/ioa8.html"
+op1 = "num1"
+muvelet = "op"
+op2 = "num2"
+submit03= "submit"
+eredmeny03 = "result"
 
 # 4. feladat
 url04 = ""

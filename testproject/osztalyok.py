@@ -12,7 +12,7 @@ select("bf_hours", 1)
 """
 
 
-class Test_feladat01():
+class Test_feladat01():  # Kerület.
     def __init__(self):
         self.options = Options()
         self.options.headless = True
@@ -32,7 +32,7 @@ class Test_feladat01():
         return self.cmezo.text == c
 
 
-class Test_feladat02():
+class Test_feladat02():  # Fejek.
     def __init__(self):
         self.options = Options()
         self.options.headless = True
@@ -50,12 +50,40 @@ class Test_feladat02():
         return self.hanyfej >= 30
 
 
-class Test_feladat03():
+class Test_feladat03():  # Számolgat.
     def __init__(self):
         self.options = Options()
         self.options.headless = True
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(lokatorok.url03)
+
+    def test_tesztel(self):
+        def osszead(a, b):
+            return a + b
+
+        def kivon(a, b):
+            return a - b
+
+        def szoroz(a, b):
+            return a * b
+
+        def oszt(a, b):  # Úgyse lesz ilyen! :)
+            return a / b
+
+        self.elso = float(self.driver.find_element_by_id(lokatorok.op1).text)
+        self.masodik = float(self.driver.find_element_by_id(lokatorok.op2).text)
+        self.muvelet = self.driver.find_element_by_id(lokatorok.muvelet).text
+        if self.muvelet == "+":  # A művelettől függően.
+            self.eredmeny = osszead(self.elso, self.masodik)
+        elif self.muvelet == "-":
+            self.eredmeny = kivon(self.elso, self.masodik)
+        elif self.muvelet == "*":
+            self.eredmeny = szoroz(self.elso, self.masodik)
+        else:
+            self.eredmeny = oszt(self.elso, self.masodik)
+        # print(self.eredmeny, self.elso, self.muvelet, self.masodik)
+        self.driver.find_element_by_id(lokatorok.submit03).click()
+        return str(int(self.driver.find_element_by_id(lokatorok.eredmeny03).text)) == str(int(self.eredmeny))
 
 
 class Test_feladat04():
