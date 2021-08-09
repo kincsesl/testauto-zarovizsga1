@@ -26,7 +26,7 @@ emilmezo = "email"
 submit04 = "submit"
 hibauzi = "validation-error"  # Xpass lett a vége.
 tesztlista04 = [["teszt@elek.hu", ""], ["", "Kérjük, töltse ki ezt a mezőt."],
-                ["teszt@", "Kérjük, adja meg a „@” utáni részt is. A(z) „test@” cím nem teljes."]]
+                ["teszt@", "Kérjük, adja meg a „@” utáni részt is. A(z) „teszt@” cím nem teljes."]]
 # 5. feladat
 url05 = "https://black-moss-0a0440e03.azurestaticapps.net/rv4.html"
 textarea05 = "cites"

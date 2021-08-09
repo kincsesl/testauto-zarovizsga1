@@ -81,21 +81,20 @@ class Test_feladat03():  # Számolgat.
 class Test_feladat04():
     def __init__(self):
         self.options = Options()
-        # self.options.headless = True
+        self.options.headless = True
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(lokatorok.url04)
 
-    def test_tesztel(self, a, b):
+    def test_tesztel(self, a, b):  # A tesztlistával tesztelem.
         self.driver.refresh()
         self.driver.find_element_by_id(lokatorok.emilmezo).clear()
         self.driver.find_element_by_id(lokatorok.emilmezo).send_keys(a)
         self.driver.find_element_by_id(lokatorok.submit04).click()
+        # Ravasz, meg se jelenik az elem, ha nincs hiba.
         self.hibalista = self.driver.find_elements_by_class_name(lokatorok.hibauzi)
-        if len(self.hibalista) > 1:
-            print("a", self.hibalista[0].text, b)
+        if len(self.hibalista) == 1:
             return self.hibalista[0].text == b
         else:
-            print("a")
             return b == ""
 
 
