@@ -3,14 +3,6 @@ from selenium.webdriver.chrome.options import Options
 import lokatorok
 import time
 
-"""
-from selenium.webdriver.support.ui import Select
-def select(name, index):
-    Select(driver.find_element_by_name(name)).select_by_index(index)  
-select("bf_time", 1)
-select("bf_hours", 1)
-"""
-
 
 class Test_feladat01():  # Kerület.
     def __init__(self):
@@ -89,9 +81,22 @@ class Test_feladat03():  # Számolgat.
 class Test_feladat04():
     def __init__(self):
         self.options = Options()
-        # options.headless = True
+        # self.options.headless = True
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(lokatorok.url04)
+
+    def test_tesztel(self, a, b):
+        self.driver.refresh()
+        self.driver.find_element_by_id(lokatorok.emilmezo).clear()
+        self.driver.find_element_by_id(lokatorok.emilmezo).send_keys(a)
+        self.driver.find_element_by_id(lokatorok.submit04).click()
+        self.hibalista = self.driver.find_elements_by_class_name(lokatorok.hibauzi)
+        if len(self.hibalista) > 1:
+            print("a", self.hibalista[0].text, b)
+            return self.hibalista[0].text == b
+        else:
+            print("a")
+            return b == ""
 
 
 class Test_feladat05():
@@ -100,3 +105,19 @@ class Test_feladat05():
         self.options.headless = True
         self.driver = webdriver.Chrome(options=self.options)
         self.driver.get(lokatorok.url05)
+
+    def test_tesztel(self):
+        self.osszesvaros = self.driver.find_element_by_id(lokatorok.varoslista).find_elements_by_xpath("//li")
+        self.tipplista = []
+        self.osszlista = []
+        for varos in self.osszesvaros:
+            self.tipplista.append(varos.text)
+        self.osszlista = self.driver.find_element_by_id(lokatorok.textarea05).text.replace('"', '').split(", ")
+        self.osszlista.sort()  # Rendezem a listákat.
+        self.tipplista.sort()
+        i = 0
+        while (self.osszlista[i] == self.tipplista[i]):
+            i += 1
+        self.driver.find_element_by_id(lokatorok.tippem).send_keys(self.osszlista[i])
+        self.driver.find_element_by_id(lokatorok.submit05).click()
+        return self.driver.find_element_by_id(lokatorok.result05).text == "Eltaláltad."

@@ -17,13 +17,20 @@ url03 = "https://black-moss-0a0440e03.azurestaticapps.net/ioa8.html"
 op1 = "num1"
 muvelet = "op"
 op2 = "num2"
-submit03= "submit"
+submit03 = "submit"
 eredmeny03 = "result"
 
 # 4. feladat
-url04 = ""
-submit04 = ""
-
+url04 = "https://black-moss-0a0440e03.azurestaticapps.net/mm43.html"
+emilmezo = "email"
+submit04 = "submit"
+hibauzi = "validation-error"  # Xpass lett a vége.
+tesztlista04 = [["teszt@elek.hu", ""], ["", "Kérjük, töltse ki ezt a mezőt."],
+                ["teszt@", "Kérjük, adja meg a „@” utáni részt is. A(z) „test@” cím nem teljes."]]
 # 5. feladat
-url05 = ""
-submit05 = ""
+url05 = "https://black-moss-0a0440e03.azurestaticapps.net/rv4.html"
+textarea05 = "cites"
+varoslista = "randomCities"
+tippem = "missingCity"
+result05 = "result"
+submit05 = "submit"
