@@ -1,0 +1,1723 @@
+Os: ios	Os_version:13	Browser: Mobile Safari	Text: iPhone SE 2020 v(13)
+Os: ios	Os_version:10	Browser: Mobile Safari	Text: iPhone 7 v(10)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPhone SE v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPhone 6 v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPhone 6S Plus v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPhone 6S v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPhone 8 Plus v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPhone 8 v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPhone X v(11)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPhone 6S v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPhone 7 v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPhone 8 Plus v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPhone 8 v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPhone XR v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPhone XS Max v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPhone XS v(12)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPhone 11 v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPhone 11 Pro Max v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPhone 12 v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPhone 12 Mini v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPhone 12 Pro v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPhone 12 Pro Max v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPhone XS v(14)
+Os: ios	Os_version:5.1	Browser: Mobile Safari	Text: iPhone 4S v(5.1)
+Os: ios	Os_version:6.0	Browser: Mobile Safari	Text: iPhone 5 v(6.0)
+Os: ios	Os_version:6.0	Browser: Mobile Safari	Text: iPhone 4S (6.0) v(6.0)
+Os: ios	Os_version:7.0	Browser: Mobile Safari	Text: iPhone 5S v(7.0)
+Os: ios	Os_version:8.3	Browser: Mobile Safari	Text: iPhone 6 Plus v(8.3)
+Os: ios	Os_version:8.3	Browser: Mobile Safari	Text: iPhone 6 v(8.3)
+Os: ios	Os_version:13	Browser: Mobile Safari	Text: iPad 7th v(13)
+Os: ios	Os_version:13	Browser: Mobile Safari	Text: iPad Air 2019 v(13)
+Os: ios	Os_version:13	Browser: Mobile Safari	Text: iPad Mini 2019 v(13)
+Os: ios	Os_version:13	Browser: Mobile Safari	Text: iPad Pro 11 2020 v(13)
+Os: ios	Os_version:13	Browser: Mobile Safari	Text: iPad Pro 12.9 2020 v(13)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPad 5th v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPad 6th v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPad Mini 4 v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPad Pro 12.9 2017 v(11)
+Os: ios	Os_version:11	Browser: Mobile Safari	Text: iPad Pro 9.7 2016 v(11)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPad Air 2019 v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPad Mini 2019 v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPad Pro 11 2018 v(12)
+Os: ios	Os_version:12	Browser: Mobile Safari	Text: iPad Pro 12.9 2018 v(12)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPad 8th v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPad Pro 11 2021 v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPad Pro 12.9 2020 v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPad Pro 12.9 2021 v(14)
+Os: ios	Os_version:14	Browser: Mobile Safari	Text: iPad Air 4 v(14)
+Os: ios	Os_version:5.0	Browser: Mobile Safari	Text: iPad 2 (5.0) v(5.0)
+Os: ios	Os_version:5.1	Browser: Mobile Safari	Text: iPad 3rd v(5.1)
+Os: ios	Os_version:6.0	Browser: Mobile Safari	Text: iPad 3rd (6.0) v(6.0)
+Os: ios	Os_version:7.0	Browser: Mobile Safari	Text: iPad Mini v(7.0)
+Os: ios	Os_version:7.0	Browser: Mobile Safari	Text: iPad 4th v(7.0)
+Os: ios	Os_version:8.3	Browser: Mobile Safari	Text: iPad Air v(8.3)
+Os: ios	Os_version:8.3	Browser: Mobile Safari	Text: iPad Mini 2 v(8.3)
+Os: ios	Os_version:4.4	Browser: Mobile Safari	Text: Galaxy Tab 4
+Os: ios	Os_version:8.0	Browser: Mobile Safari	Text: Galaxy Tab S3
+Os: ios	Os_version:8.1	Browser: Mobile Safari	Text: Galaxy Tab S4
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy Tab S5e
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy Tab S6
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Galaxy Tab S7
+Os: ios	Os_version:4.4	Browser: Mobile Safari	Text: Galaxy Note 4
+Os: ios	Os_version:5.0	Browser: Mobile Safari	Text: Galaxy S6
+Os: ios	Os_version:6.0	Browser: Mobile Safari	Text: Galaxy S7
+Os: ios	Os_version:7.0	Browser: Mobile Safari	Text: Galaxy S8
+Os: ios	Os_version:7.0	Browser: Mobile Safari	Text: Galaxy S8 Plus
+Os: ios	Os_version:7.1	Browser: Mobile Safari	Text: Galaxy A8
+Os: ios	Os_version:7.1	Browser: Mobile Safari	Text: Galaxy Note 8
+Os: ios	Os_version:8.0	Browser: Mobile Safari	Text: Galaxy S9
+Os: ios	Os_version:8.0	Browser: Mobile Safari	Text: Galaxy S9 Plus
+Os: ios	Os_version:8.1	Browser: Mobile Safari	Text: Galaxy J7 Prime
+Os: ios	Os_version:8.1	Browser: Mobile Safari	Text: Galaxy Note 9
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy A10
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy Note 10
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy Note 10 Plus
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy S10
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy S10 Plus
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy S10e
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy S8 Plus
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Galaxy S9 Plus
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Galaxy A11
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Galaxy A51
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Galaxy Note 20
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Galaxy Note 20 Ultra
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Galaxy S20 Ultra
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Galaxy S20 Plus
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Galaxy S20
+Os: ios	Os_version:11.0	Browser: Mobile Safari	Text: Galaxy S21 Plus
+Os: ios	Os_version:11.0	Browser: Mobile Safari	Text: Galaxy S21
+Os: ios	Os_version:11.0	Browser: Mobile Safari	Text: Galaxy S21 Ultra
+Os: ios	Os_version:2.3	Browser: Mobile Safari	Text: Galaxy Note
+Os: ios	Os_version:4.0	Browser: Mobile Safari	Text: Galaxy Note 10.1
+Os: ios	Os_version:4.1	Browser: Mobile Safari	Text: Galaxy Note 2
+Os: ios	Os_version:4.3	Browser: Mobile Safari	Text: Galaxy Note 3
+Os: ios	Os_version:4.4	Browser: Mobile Safari	Text: Galaxy Tab 4 10.1
+Os: ios	Os_version:4.4	Browser: Mobile Safari	Text: Galaxy S5 Mini
+Os: ios	Os_version:4.0	Browser: Mobile Safari	Text: Galaxy Tab 2 10.1
+Os: ios	Os_version:2.3	Browser: Mobile Safari	Text: Galaxy S2
+Os: ios	Os_version:4.1	Browser: Mobile Safari	Text: Galaxy S3
+Os: ios	Os_version:4.3	Browser: Mobile Safari	Text: Galaxy S4
+Os: ios	Os_version:4.4	Browser: Mobile Safari	Text: Galaxy S5
+Os: ios	Os_version:4.4	Browser: Mobile Safari	Text: Nexus 5
+Os: ios	Os_version:5.0	Browser: Mobile Safari	Text: Nexus 6
+Os: ios	Os_version:6.0	Browser: Mobile Safari	Text: Nexus 6
+Os: android	Os_version:7.1	Browser: Android Browser	Text: Pixel v7.1
+Os: android	Os_version:8.0	Browser: Android Browser	Text: Pixel v8.0
+Os: android	Os_version:8.0	Browser: Android Browser	Text: Pixel 2 v8.0
+Os: android	Os_version:9.0	Browser: Android Browser	Text: Pixel 2 v9.0
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Pixel 3
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Pixel 3 XL
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Pixel 3a
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Pixel 3a XL
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Pixel 3
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Pixel 4
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Pixel 4 XL
+Os: ios	Os_version:11.0	Browser: Mobile Safari	Text: Pixel 4
+Os: ios	Os_version:11.0	Browser: Mobile Safari	Text: Pixel 5
+Os: ios	Os_version:4.0	Browser: Mobile Safari	Text: Nexus
+Os: ios	Os_version:4.2	Browser: Mobile Safari	Text: Nexus 4
+Os: ios	Os_version:5.0	Browser: Mobile Safari	Text: Nexus 5
+Os: ios	Os_version:5.0	Browser: Mobile Safari	Text: Nexus 6
+Os: ios	Os_version:4.1	Browser: Mobile Safari	Text: Nexus 7
+Os: ios	Os_version:5.0	Browser: Mobile Safari	Text: Nexus 9
+Os: android	Os_version:5.0	Browser: Android Browser	Text: Moto X 2nd Gen v5.0
+Os: android	Os_version:6.0	Browser: Android Browser	Text: Moto X 2nd Gen v6.0
+Os: ios	Os_version:9.0	Browser: Mobile Safari	Text: Moto G7 Play
+Os: ios	Os_version:10.0	Browser: Mobile Safari	Text: Moto G9 Play
+Os: ios	Os_version:4.1	Browser: Mobile Safari	Text: Razr Maxx HD
+Os: ios	Os_version:2.3	Browser: Mobile Safari	Text: Droid Razr
+Os: ios	Os_version:4.0	Browser: Mobile Safari	Text: Razr
+Os: ios	Os_version:4.3	Browser: Mobile Safari	Text: Kindle Fire HDX 7
+Os: ios	Os_version:4.0	Browser: Mobile Safari	Text: Kindle Fire HD 8.9
+Os: ios	Os_version:4.0	Browser: Mobile Safari	Text: Kindle Fire 2
+Os: ios	Os_version:2.2	Browser: Mobile Safari	Text: Wildfire
+Os: ios	Os_version:4.0	Browser: Mobile Safari	Text: One X
+Os: ios	Os_version:4.4	Browser: Mobile Safari	Text: One M8
+Os: ios	Os_version:4.0	Browser: Mobile Safari	Text: Xperia Tipo
+Os: Windows	Os_version:10	Browser: ie	Text: 11
+Os: Windows	Os_version:10	Browser: edge	Text: 18
+Os: Windows	Os_version:10	Browser: edge	Text: 17
+Os: Windows	Os_version:10	Browser: edge	Text: 16
+Os: Windows	Os_version:10	Browser: edge	Text: 15
+Os: Windows	Os_version:10	Browser: edge	Text: insider preview
+Os: Windows	Os_version:10	Browser: chrome	Text: 71
+Os: Windows	Os_version:10	Browser: chrome	Text: 70
+Os: Windows	Os_version:10	Browser: chrome	Text: 69
+Os: Windows	Os_version:10	Browser: chrome	Text: 68
+Os: Windows	Os_version:10	Browser: chrome	Text: 67
+Os: Windows	Os_version:10	Browser: chrome	Text: 66
+Os: Windows	Os_version:10	Browser: chrome	Text: 65
+Os: Windows	Os_version:10	Browser: chrome	Text: 64
+Os: Windows	Os_version:10	Browser: chrome	Text: 63
+Os: Windows	Os_version:10	Browser: chrome	Text: 62
+Os: Windows	Os_version:10	Browser: chrome	Text: 61
+Os: Windows	Os_version:10	Browser: chrome	Text: 60
+Os: Windows	Os_version:10	Browser: chrome	Text: 59
+Os: Windows	Os_version:10	Browser: chrome	Text: 58
+Os: Windows	Os_version:10	Browser: chrome	Text: 57
+Os: Windows	Os_version:10	Browser: chrome	Text: 56
+Os: Windows	Os_version:10	Browser: chrome	Text: 55
+Os: Windows	Os_version:10	Browser: chrome	Text: 54
+Os: Windows	Os_version:10	Browser: chrome	Text: 53
+Os: Windows	Os_version:10	Browser: chrome	Text: 52
+Os: Windows	Os_version:10	Browser: chrome	Text: 51
+Os: Windows	Os_version:10	Browser: chrome	Text: 50
+Os: Windows	Os_version:10	Browser: chrome	Text: 49
+Os: Windows	Os_version:10	Browser: chrome	Text: 48
+Os: Windows	Os_version:10	Browser: chrome	Text: 47
+Os: Windows	Os_version:10	Browser: chrome	Text: 46
+Os: Windows	Os_version:10	Browser: chrome	Text: 45
+Os: Windows	Os_version:10	Browser: chrome	Text: 44
+Os: Windows	Os_version:10	Browser: chrome	Text: 43
+Os: Windows	Os_version:10	Browser: chrome	Text: 42
+Os: Windows	Os_version:10	Browser: chrome	Text: 41
+Os: Windows	Os_version:10	Browser: chrome	Text: 40
+Os: Windows	Os_version:10	Browser: chrome	Text: 39
+Os: Windows	Os_version:10	Browser: chrome	Text: 38
+Os: Windows	Os_version:10	Browser: chrome	Text: 37
+Os: Windows	Os_version:10	Browser: firefox	Text: 63
+Os: Windows	Os_version:10	Browser: firefox	Text: 62
+Os: Windows	Os_version:10	Browser: firefox	Text: 61
+Os: Windows	Os_version:10	Browser: firefox	Text: 60
+Os: Windows	Os_version:10	Browser: firefox	Text: 59
+Os: Windows	Os_version:10	Browser: firefox	Text: 58
+Os: Windows	Os_version:10	Browser: firefox	Text: 57
+Os: Windows	Os_version:10	Browser: firefox	Text: 56
+Os: Windows	Os_version:10	Browser: firefox	Text: 55
+Os: Windows	Os_version:10	Browser: firefox	Text: 54
+Os: Windows	Os_version:10	Browser: firefox	Text: 53
+Os: Windows	Os_version:10	Browser: firefox	Text: 52
+Os: Windows	Os_version:10	Browser: firefox	Text: 51
+Os: Windows	Os_version:10	Browser: firefox	Text: 50
+Os: Windows	Os_version:10	Browser: firefox	Text: 49
+Os: Windows	Os_version:10	Browser: firefox	Text: 48
+Os: Windows	Os_version:10	Browser: firefox	Text: 47
+Os: Windows	Os_version:10	Browser: firefox	Text: 46
+Os: Windows	Os_version:10	Browser: firefox	Text: 45
+Os: Windows	Os_version:10	Browser: firefox	Text: 44
+Os: Windows	Os_version:10	Browser: firefox	Text: 43
+Os: Windows	Os_version:10	Browser: firefox	Text: 42
+Os: Windows	Os_version:10	Browser: firefox	Text: 41
+Os: Windows	Os_version:10	Browser: firefox	Text: 40
+Os: Windows	Os_version:10	Browser: firefox	Text: 39
+Os: Windows	Os_version:10	Browser: firefox	Text: 38
+Os: Windows	Os_version:10	Browser: firefox	Text: 37
+Os: Windows	Os_version:10	Browser: firefox	Text: 36
+Os: Windows	Os_version:10	Browser: firefox	Text: 35
+Os: Windows	Os_version:10	Browser: firefox	Text: 34
+Os: Windows	Os_version:10	Browser: firefox	Text: 33
+Os: Windows	Os_version:10	Browser: firefox	Text: 32
+Os: Windows	Os_version:8.1	Browser: ie	Text: 11
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 71
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 70
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 69
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 68
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 67
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 66
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 65
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 64
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 63
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 62
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 61
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 60
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 59
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 58
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 57
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 56
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 55
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 54
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 53
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 52
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 51
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 50
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 49
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 48
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 47
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 46
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 45
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 44
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 43
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 42
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 41
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 40
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 39
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 38
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 37
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 36
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 35
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 34
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 33
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 32
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 31
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 30
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 29
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 28
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 27
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 26
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 25
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 24
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 23
+Os: Windows	Os_version:8.1	Browser: chrome	Text: 22
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 63
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 62
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 61
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 60
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 59
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 58
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 57
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 56
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 55
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 54
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 53
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 52
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 51
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 50
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 49
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 48
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 47
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 46
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 45
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 44
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 43
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 42
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 41
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 40
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 39
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 38
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 37
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 36
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 35
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 34
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 33
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 32
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 31
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 30
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 29
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 28
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 27
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 26
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 25
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 24
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 23
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 22
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 21
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 20
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 19
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 18
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 17
+Os: Windows	Os_version:8.1	Browser: firefox	Text: 16
+Os: Windows	Os_version:8.1	Browser: opera	Text: 12.16
+Os: Windows	Os_version:8.1	Browser: opera	Text: 12.15
+Os: Windows	Os_version:8.1	Browser: opera	Text: 12.14
+Os: Windows	Os_version:8.1	Browser: opera	Text: 12.1
+Os: Windows	Os_version:8.1	Browser: opera	Text: 12
+Os: Windows	Os_version:8	Browser: ie	Text: 10
+Os: Windows	Os_version:8	Browser: chrome	Text: 71
+Os: Windows	Os_version:8	Browser: chrome	Text: 70
+Os: Windows	Os_version:8	Browser: chrome	Text: 69
+Os: Windows	Os_version:8	Browser: chrome	Text: 68
+Os: Windows	Os_version:8	Browser: chrome	Text: 67
+Os: Windows	Os_version:8	Browser: chrome	Text: 66
+Os: Windows	Os_version:8	Browser: chrome	Text: 65
+Os: Windows	Os_version:8	Browser: chrome	Text: 64
+Os: Windows	Os_version:8	Browser: chrome	Text: 63
+Os: Windows	Os_version:8	Browser: chrome	Text: 62
+Os: Windows	Os_version:8	Browser: chrome	Text: 61
+Os: Windows	Os_version:8	Browser: chrome	Text: 60
+Os: Windows	Os_version:8	Browser: chrome	Text: 59
+Os: Windows	Os_version:8	Browser: chrome	Text: 58
+Os: Windows	Os_version:8	Browser: chrome	Text: 57
+Os: Windows	Os_version:8	Browser: chrome	Text: 56
+Os: Windows	Os_version:8	Browser: chrome	Text: 55
+Os: Windows	Os_version:8	Browser: chrome	Text: 54
+Os: Windows	Os_version:8	Browser: chrome	Text: 53
+Os: Windows	Os_version:8	Browser: chrome	Text: 52
+Os: Windows	Os_version:8	Browser: chrome	Text: 51
+Os: Windows	Os_version:8	Browser: chrome	Text: 50
+Os: Windows	Os_version:8	Browser: chrome	Text: 49
+Os: Windows	Os_version:8	Browser: chrome	Text: 48
+Os: Windows	Os_version:8	Browser: chrome	Text: 47
+Os: Windows	Os_version:8	Browser: chrome	Text: 46
+Os: Windows	Os_version:8	Browser: chrome	Text: 45
+Os: Windows	Os_version:8	Browser: chrome	Text: 44
+Os: Windows	Os_version:8	Browser: chrome	Text: 43
+Os: Windows	Os_version:8	Browser: chrome	Text: 42
+Os: Windows	Os_version:8	Browser: chrome	Text: 41
+Os: Windows	Os_version:8	Browser: chrome	Text: 40
+Os: Windows	Os_version:8	Browser: chrome	Text: 39
+Os: Windows	Os_version:8	Browser: chrome	Text: 38
+Os: Windows	Os_version:8	Browser: chrome	Text: 37
+Os: Windows	Os_version:8	Browser: chrome	Text: 36
+Os: Windows	Os_version:8	Browser: chrome	Text: 35
+Os: Windows	Os_version:8	Browser: chrome	Text: 34
+Os: Windows	Os_version:8	Browser: chrome	Text: 33
+Os: Windows	Os_version:8	Browser: chrome	Text: 32
+Os: Windows	Os_version:8	Browser: chrome	Text: 31
+Os: Windows	Os_version:8	Browser: chrome	Text: 30
+Os: Windows	Os_version:8	Browser: chrome	Text: 29
+Os: Windows	Os_version:8	Browser: chrome	Text: 28
+Os: Windows	Os_version:8	Browser: chrome	Text: 27
+Os: Windows	Os_version:8	Browser: chrome	Text: 26
+Os: Windows	Os_version:8	Browser: chrome	Text: 25
+Os: Windows	Os_version:8	Browser: chrome	Text: 24
+Os: Windows	Os_version:8	Browser: chrome	Text: 23
+Os: Windows	Os_version:8	Browser: chrome	Text: 22
+Os: Windows	Os_version:8	Browser: firefox	Text: 63
+Os: Windows	Os_version:8	Browser: firefox	Text: 62
+Os: Windows	Os_version:8	Browser: firefox	Text: 61
+Os: Windows	Os_version:8	Browser: firefox	Text: 60
+Os: Windows	Os_version:8	Browser: firefox	Text: 59
+Os: Windows	Os_version:8	Browser: firefox	Text: 58
+Os: Windows	Os_version:8	Browser: firefox	Text: 57
+Os: Windows	Os_version:8	Browser: firefox	Text: 56
+Os: Windows	Os_version:8	Browser: firefox	Text: 55
+Os: Windows	Os_version:8	Browser: firefox	Text: 54
+Os: Windows	Os_version:8	Browser: firefox	Text: 53
+Os: Windows	Os_version:8	Browser: firefox	Text: 52
+Os: Windows	Os_version:8	Browser: firefox	Text: 51
+Os: Windows	Os_version:8	Browser: firefox	Text: 50
+Os: Windows	Os_version:8	Browser: firefox	Text: 49
+Os: Windows	Os_version:8	Browser: firefox	Text: 48
+Os: Windows	Os_version:8	Browser: firefox	Text: 47
+Os: Windows	Os_version:8	Browser: firefox	Text: 46
+Os: Windows	Os_version:8	Browser: firefox	Text: 45
+Os: Windows	Os_version:8	Browser: firefox	Text: 44
+Os: Windows	Os_version:8	Browser: firefox	Text: 43
+Os: Windows	Os_version:8	Browser: firefox	Text: 42
+Os: Windows	Os_version:8	Browser: firefox	Text: 41
+Os: Windows	Os_version:8	Browser: firefox	Text: 40
+Os: Windows	Os_version:8	Browser: firefox	Text: 39
+Os: Windows	Os_version:8	Browser: firefox	Text: 38
+Os: Windows	Os_version:8	Browser: firefox	Text: 37
+Os: Windows	Os_version:8	Browser: firefox	Text: 36
+Os: Windows	Os_version:8	Browser: firefox	Text: 35
+Os: Windows	Os_version:8	Browser: firefox	Text: 34
+Os: Windows	Os_version:8	Browser: firefox	Text: 33
+Os: Windows	Os_version:8	Browser: firefox	Text: 32
+Os: Windows	Os_version:8	Browser: firefox	Text: 31
+Os: Windows	Os_version:8	Browser: firefox	Text: 30
+Os: Windows	Os_version:8	Browser: firefox	Text: 29
+Os: Windows	Os_version:8	Browser: firefox	Text: 28
+Os: Windows	Os_version:8	Browser: firefox	Text: 27
+Os: Windows	Os_version:8	Browser: firefox	Text: 26
+Os: Windows	Os_version:8	Browser: firefox	Text: 25
+Os: Windows	Os_version:8	Browser: firefox	Text: 24
+Os: Windows	Os_version:8	Browser: firefox	Text: 23
+Os: Windows	Os_version:8	Browser: firefox	Text: 22
+Os: Windows	Os_version:8	Browser: firefox	Text: 21
+Os: Windows	Os_version:8	Browser: firefox	Text: 20
+Os: Windows	Os_version:8	Browser: firefox	Text: 19
+Os: Windows	Os_version:8	Browser: firefox	Text: 18
+Os: Windows	Os_version:8	Browser: firefox	Text: 17
+Os: Windows	Os_version:8	Browser: firefox	Text: 16
+Os: Windows	Os_version:8	Browser: opera	Text: 12.16
+Os: Windows	Os_version:8	Browser: opera	Text: 12.15
+Os: Windows	Os_version:8	Browser: opera	Text: 12.14
+Os: Windows	Os_version:8	Browser: opera	Text: 12.1
+Os: Windows	Os_version:8	Browser: opera	Text: 12
+Os: Windows	Os_version:7	Browser: ie	Text: 11
+Os: Windows	Os_version:7	Browser: ie	Text: 10
+Os: Windows	Os_version:7	Browser: ie	Text: 9
+Os: Windows	Os_version:7	Browser: ie	Text: 8
+Os: Windows	Os_version:7	Browser: chrome	Text: 71
+Os: Windows	Os_version:7	Browser: chrome	Text: 70
+Os: Windows	Os_version:7	Browser: chrome	Text: 69
+Os: Windows	Os_version:7	Browser: chrome	Text: 68
+Os: Windows	Os_version:7	Browser: chrome	Text: 67
+Os: Windows	Os_version:7	Browser: chrome	Text: 66
+Os: Windows	Os_version:7	Browser: chrome	Text: 65
+Os: Windows	Os_version:7	Browser: chrome	Text: 64
+Os: Windows	Os_version:7	Browser: chrome	Text: 63
+Os: Windows	Os_version:7	Browser: chrome	Text: 62
+Os: Windows	Os_version:7	Browser: chrome	Text: 61
+Os: Windows	Os_version:7	Browser: chrome	Text: 60
+Os: Windows	Os_version:7	Browser: chrome	Text: 59
+Os: Windows	Os_version:7	Browser: chrome	Text: 58
+Os: Windows	Os_version:7	Browser: chrome	Text: 57
+Os: Windows	Os_version:7	Browser: chrome	Text: 56
+Os: Windows	Os_version:7	Browser: chrome	Text: 55
+Os: Windows	Os_version:7	Browser: chrome	Text: 54
+Os: Windows	Os_version:7	Browser: chrome	Text: 53
+Os: Windows	Os_version:7	Browser: chrome	Text: 52
+Os: Windows	Os_version:7	Browser: chrome	Text: 51
+Os: Windows	Os_version:7	Browser: chrome	Text: 50
+Os: Windows	Os_version:7	Browser: chrome	Text: 49
+Os: Windows	Os_version:7	Browser: chrome	Text: 48
+Os: Windows	Os_version:7	Browser: chrome	Text: 47
+Os: Windows	Os_version:7	Browser: chrome	Text: 46
+Os: Windows	Os_version:7	Browser: chrome	Text: 45
+Os: Windows	Os_version:7	Browser: chrome	Text: 44
+Os: Windows	Os_version:7	Browser: chrome	Text: 43
+Os: Windows	Os_version:7	Browser: chrome	Text: 42
+Os: Windows	Os_version:7	Browser: chrome	Text: 41
+Os: Windows	Os_version:7	Browser: chrome	Text: 40
+Os: Windows	Os_version:7	Browser: chrome	Text: 39
+Os: Windows	Os_version:7	Browser: chrome	Text: 38
+Os: Windows	Os_version:7	Browser: chrome	Text: 37
+Os: Windows	Os_version:7	Browser: chrome	Text: 36
+Os: Windows	Os_version:7	Browser: chrome	Text: 35
+Os: Windows	Os_version:7	Browser: chrome	Text: 34
+Os: Windows	Os_version:7	Browser: chrome	Text: 33
+Os: Windows	Os_version:7	Browser: chrome	Text: 32
+Os: Windows	Os_version:7	Browser: chrome	Text: 31
+Os: Windows	Os_version:7	Browser: chrome	Text: 30
+Os: Windows	Os_version:7	Browser: chrome	Text: 29
+Os: Windows	Os_version:7	Browser: chrome	Text: 28
+Os: Windows	Os_version:7	Browser: chrome	Text: 27
+Os: Windows	Os_version:7	Browser: chrome	Text: 26
+Os: Windows	Os_version:7	Browser: chrome	Text: 25
+Os: Windows	Os_version:7	Browser: chrome	Text: 24
+Os: Windows	Os_version:7	Browser: chrome	Text: 23
+Os: Windows	Os_version:7	Browser: chrome	Text: 22
+Os: Windows	Os_version:7	Browser: chrome	Text: 21
+Os: Windows	Os_version:7	Browser: chrome	Text: 20
+Os: Windows	Os_version:7	Browser: chrome	Text: 19
+Os: Windows	Os_version:7	Browser: chrome	Text: 18
+Os: Windows	Os_version:7	Browser: chrome	Text: 17
+Os: Windows	Os_version:7	Browser: chrome	Text: 16
+Os: Windows	Os_version:7	Browser: chrome	Text: 15
+Os: Windows	Os_version:7	Browser: chrome	Text: 14
+Os: Windows	Os_version:7	Browser: firefox	Text: 63
+Os: Windows	Os_version:7	Browser: firefox	Text: 62
+Os: Windows	Os_version:7	Browser: firefox	Text: 61
+Os: Windows	Os_version:7	Browser: firefox	Text: 60
+Os: Windows	Os_version:7	Browser: firefox	Text: 59
+Os: Windows	Os_version:7	Browser: firefox	Text: 58
+Os: Windows	Os_version:7	Browser: firefox	Text: 57
+Os: Windows	Os_version:7	Browser: firefox	Text: 56
+Os: Windows	Os_version:7	Browser: firefox	Text: 55
+Os: Windows	Os_version:7	Browser: firefox	Text: 54
+Os: Windows	Os_version:7	Browser: firefox	Text: 53
+Os: Windows	Os_version:7	Browser: firefox	Text: 52
+Os: Windows	Os_version:7	Browser: firefox	Text: 51
+Os: Windows	Os_version:7	Browser: firefox	Text: 50
+Os: Windows	Os_version:7	Browser: firefox	Text: 49
+Os: Windows	Os_version:7	Browser: firefox	Text: 48
+Os: Windows	Os_version:7	Browser: firefox	Text: 47
+Os: Windows	Os_version:7	Browser: firefox	Text: 46
+Os: Windows	Os_version:7	Browser: firefox	Text: 45
+Os: Windows	Os_version:7	Browser: firefox	Text: 44
+Os: Windows	Os_version:7	Browser: firefox	Text: 43
+Os: Windows	Os_version:7	Browser: firefox	Text: 42
+Os: Windows	Os_version:7	Browser: firefox	Text: 41
+Os: Windows	Os_version:7	Browser: firefox	Text: 40
+Os: Windows	Os_version:7	Browser: firefox	Text: 39
+Os: Windows	Os_version:7	Browser: firefox	Text: 38
+Os: Windows	Os_version:7	Browser: firefox	Text: 37
+Os: Windows	Os_version:7	Browser: firefox	Text: 36
+Os: Windows	Os_version:7	Browser: firefox	Text: 35
+Os: Windows	Os_version:7	Browser: firefox	Text: 34
+Os: Windows	Os_version:7	Browser: firefox	Text: 33
+Os: Windows	Os_version:7	Browser: firefox	Text: 32
+Os: Windows	Os_version:7	Browser: firefox	Text: 31
+Os: Windows	Os_version:7	Browser: firefox	Text: 30
+Os: Windows	Os_version:7	Browser: firefox	Text: 29
+Os: Windows	Os_version:7	Browser: firefox	Text: 28
+Os: Windows	Os_version:7	Browser: firefox	Text: 27
+Os: Windows	Os_version:7	Browser: firefox	Text: 26
+Os: Windows	Os_version:7	Browser: firefox	Text: 25
+Os: Windows	Os_version:7	Browser: firefox	Text: 24
+Os: Windows	Os_version:7	Browser: firefox	Text: 23
+Os: Windows	Os_version:7	Browser: firefox	Text: 22
+Os: Windows	Os_version:7	Browser: firefox	Text: 21
+Os: Windows	Os_version:7	Browser: firefox	Text: 20
+Os: Windows	Os_version:7	Browser: firefox	Text: 19
+Os: Windows	Os_version:7	Browser: firefox	Text: 18
+Os: Windows	Os_version:7	Browser: firefox	Text: 17
+Os: Windows	Os_version:7	Browser: firefox	Text: 16
+Os: Windows	Os_version:7	Browser: firefox	Text: 15
+Os: Windows	Os_version:7	Browser: firefox	Text: 14
+Os: Windows	Os_version:7	Browser: firefox	Text: 13
+Os: Windows	Os_version:7	Browser: firefox	Text: 12
+Os: Windows	Os_version:7	Browser: firefox	Text: 11
+Os: Windows	Os_version:7	Browser: firefox	Text: 10
+Os: Windows	Os_version:7	Browser: firefox	Text: 9
+Os: Windows	Os_version:7	Browser: firefox	Text: 8
+Os: Windows	Os_version:7	Browser: firefox	Text: 7
+Os: Windows	Os_version:7	Browser: firefox	Text: 6
+Os: Windows	Os_version:7	Browser: firefox	Text: 5
+Os: Windows	Os_version:7	Browser: firefox	Text: 4
+Os: Windows	Os_version:7	Browser: firefox	Text: 3.6
+Os: Windows	Os_version:7	Browser: opera	Text: 12.16
+Os: Windows	Os_version:7	Browser: opera	Text: 12.15
+Os: Windows	Os_version:7	Browser: opera	Text: 12.14
+Os: Windows	Os_version:7	Browser: opera	Text: 12.1
+Os: Windows	Os_version:7	Browser: opera	Text: 11.6
+Os: Windows	Os_version:XP	Browser: ie	Text: 7
+Os: Windows	Os_version:XP	Browser: ie	Text: 6
+Os: Windows	Os_version:XP	Browser: chrome	Text: 49
+Os: Windows	Os_version:XP	Browser: chrome	Text: 48
+Os: Windows	Os_version:XP	Browser: chrome	Text: 47
+Os: Windows	Os_version:XP	Browser: chrome	Text: 46
+Os: Windows	Os_version:XP	Browser: chrome	Text: 45
+Os: Windows	Os_version:XP	Browser: chrome	Text: 44
+Os: Windows	Os_version:XP	Browser: chrome	Text: 43
+Os: Windows	Os_version:XP	Browser: chrome	Text: 42
+Os: Windows	Os_version:XP	Browser: chrome	Text: 41
+Os: Windows	Os_version:XP	Browser: chrome	Text: 40
+Os: Windows	Os_version:XP	Browser: chrome	Text: 39
+Os: Windows	Os_version:XP	Browser: chrome	Text: 38
+Os: Windows	Os_version:XP	Browser: chrome	Text: 37
+Os: Windows	Os_version:XP	Browser: chrome	Text: 36
+Os: Windows	Os_version:XP	Browser: chrome	Text: 35
+Os: Windows	Os_version:XP	Browser: chrome	Text: 34
+Os: Windows	Os_version:XP	Browser: chrome	Text: 33
+Os: Windows	Os_version:XP	Browser: chrome	Text: 32
+Os: Windows	Os_version:XP	Browser: chrome	Text: 31
+Os: Windows	Os_version:XP	Browser: chrome	Text: 30
+Os: Windows	Os_version:XP	Browser: chrome	Text: 29
+Os: Windows	Os_version:XP	Browser: chrome	Text: 28
+Os: Windows	Os_version:XP	Browser: chrome	Text: 27
+Os: Windows	Os_version:XP	Browser: chrome	Text: 26
+Os: Windows	Os_version:XP	Browser: chrome	Text: 25
+Os: Windows	Os_version:XP	Browser: chrome	Text: 24
+Os: Windows	Os_version:XP	Browser: chrome	Text: 23
+Os: Windows	Os_version:XP	Browser: chrome	Text: 22
+Os: Windows	Os_version:XP	Browser: chrome	Text: 21
+Os: Windows	Os_version:XP	Browser: chrome	Text: 20
+Os: Windows	Os_version:XP	Browser: chrome	Text: 19
+Os: Windows	Os_version:XP	Browser: chrome	Text: 18
+Os: Windows	Os_version:XP	Browser: chrome	Text: 17
+Os: Windows	Os_version:XP	Browser: chrome	Text: 16
+Os: Windows	Os_version:XP	Browser: chrome	Text: 15
+Os: Windows	Os_version:XP	Browser: chrome	Text: 14
+Os: Windows	Os_version:XP	Browser: firefox	Text: 47
+Os: Windows	Os_version:XP	Browser: firefox	Text: 46
+Os: Windows	Os_version:XP	Browser: firefox	Text: 45
+Os: Windows	Os_version:XP	Browser: firefox	Text: 44
+Os: Windows	Os_version:XP	Browser: firefox	Text: 43
+Os: Windows	Os_version:XP	Browser: firefox	Text: 42
+Os: Windows	Os_version:XP	Browser: firefox	Text: 41
+Os: Windows	Os_version:XP	Browser: firefox	Text: 40
+Os: Windows	Os_version:XP	Browser: firefox	Text: 38
+Os: Windows	Os_version:XP	Browser: firefox	Text: 37
+Os: Windows	Os_version:XP	Browser: firefox	Text: 36
+Os: Windows	Os_version:XP	Browser: firefox	Text: 35
+Os: Windows	Os_version:XP	Browser: firefox	Text: 34
+Os: Windows	Os_version:XP	Browser: firefox	Text: 33
+Os: Windows	Os_version:XP	Browser: firefox	Text: 32
+Os: Windows	Os_version:XP	Browser: firefox	Text: 31
+Os: Windows	Os_version:XP	Browser: firefox	Text: 30
+Os: Windows	Os_version:XP	Browser: firefox	Text: 29
+Os: Windows	Os_version:XP	Browser: firefox	Text: 28
+Os: Windows	Os_version:XP	Browser: firefox	Text: 27
+Os: Windows	Os_version:XP	Browser: firefox	Text: 26
+Os: Windows	Os_version:XP	Browser: firefox	Text: 25
+Os: Windows	Os_version:XP	Browser: firefox	Text: 24
+Os: Windows	Os_version:XP	Browser: firefox	Text: 23
+Os: Windows	Os_version:XP	Browser: firefox	Text: 22
+Os: Windows	Os_version:XP	Browser: firefox	Text: 21
+Os: Windows	Os_version:XP	Browser: firefox	Text: 20
+Os: Windows	Os_version:XP	Browser: firefox	Text: 19
+Os: Windows	Os_version:XP	Browser: firefox	Text: 18
+Os: Windows	Os_version:XP	Browser: firefox	Text: 17
+Os: Windows	Os_version:XP	Browser: firefox	Text: 16
+Os: Windows	Os_version:XP	Browser: firefox	Text: 15
+Os: Windows	Os_version:XP	Browser: firefox	Text: 14
+Os: Windows	Os_version:XP	Browser: firefox	Text: 13
+Os: Windows	Os_version:XP	Browser: firefox	Text: 12
+Os: Windows	Os_version:XP	Browser: firefox	Text: 11
+Os: Windows	Os_version:XP	Browser: firefox	Text: 10
+Os: Windows	Os_version:XP	Browser: firefox	Text: 9
+Os: Windows	Os_version:XP	Browser: firefox	Text: 8
+Os: Windows	Os_version:XP	Browser: firefox	Text: 7
+Os: Windows	Os_version:XP	Browser: firefox	Text: 6
+Os: Windows	Os_version:XP	Browser: firefox	Text: 5
+Os: Windows	Os_version:XP	Browser: firefox	Text: 4
+Os: Windows	Os_version:XP	Browser: firefox	Text: 3.6
+Os: Windows	Os_version:XP	Browser: opera	Text: 12.16
+Os: Windows	Os_version:XP	Browser: opera	Text: 12.15
+Os: Windows	Os_version:XP	Browser: opera	Text: 12.14
+Os: Windows	Os_version:XP	Browser: opera	Text: 12.1
+Os: Windows	Os_version:XP	Browser: opera	Text: 11.6
+Os: OS X	Os_version:Big Sur	Browser: safari	Text: 14.1
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 71
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 70
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 69
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 68
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 67
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 66
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 65
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 64
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 63
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 62
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 61
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 60
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 59
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 58
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 57
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 56
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 55
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 54
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 53
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 52
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 51
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 50
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 49
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 48
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 47
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 46
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 45
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 44
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 43
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 42
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 41
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 40
+Os: OS X	Os_version:Big Sur	Browser: chrome	Text: 39
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 63
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 62
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 61
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 60
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 59
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 58
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 57
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 56
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 55
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 54
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 53
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 52
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 51
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 50
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 49
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 48
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 47
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 46
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 45
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 44
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 43
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 42
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 41
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 40
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 39
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 38
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 37
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 36
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 35
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 34
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 33
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 32
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 31
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 30
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 29
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 28
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 27
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 26
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 25
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 24
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 23
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 22
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 21
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 20
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 19
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 18
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 17
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 16
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 15
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 14
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 13
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 12
+Os: OS X	Os_version:Big Sur	Browser: firefox	Text: 11
+Os: OS X	Os_version:Catalina	Browser: safari	Text: 13.1
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 71
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 70
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 69
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 68
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 67
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 66
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 65
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 64
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 63
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 62
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 61
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 60
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 59
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 58
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 57
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 56
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 55
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 54
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 53
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 52
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 51
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 50
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 49
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 48
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 47
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 46
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 45
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 44
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 43
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 42
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 41
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 40
+Os: OS X	Os_version:Catalina	Browser: chrome	Text: 39
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 63
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 62
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 61
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 60
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 59
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 58
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 57
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 56
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 55
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 54
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 53
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 52
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 51
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 50
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 49
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 48
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 47
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 46
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 45
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 44
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 43
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 42
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 41
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 40
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 39
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 38
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 37
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 36
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 35
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 34
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 33
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 32
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 31
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 30
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 29
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 28
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 27
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 26
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 25
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 24
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 23
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 22
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 21
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 20
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 19
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 18
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 17
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 16
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 15
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 14
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 13
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 12
+Os: OS X	Os_version:Catalina	Browser: firefox	Text: 11
+Os: OS X	Os_version:Mojave	Browser: safari	Text: 12.1
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 71
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 70
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 69
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 68
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 67
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 66
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 65
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 64
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 63
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 62
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 61
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 60
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 59
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 58
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 57
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 56
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 55
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 54
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 53
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 52
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 51
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 50
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 49
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 48
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 47
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 46
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 45
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 44
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 43
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 42
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 41
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 40
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 39
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 38
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 37
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 36
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 35
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 34
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 33
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 32
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 31
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 30
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 29
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 28
+Os: OS X	Os_version:Mojave	Browser: chrome	Text: 27
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 63
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 62
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 61
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 60
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 59
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 58
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 57
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 56
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 55
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 54
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 53
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 52
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 51
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 50
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 49
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 48
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 47
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 46
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 45
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 44
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 43
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 42
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 41
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 40
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 39
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 38
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 37
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 36
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 35
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 34
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 33
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 32
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 31
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 30
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 29
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 28
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 27
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 26
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 25
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 24
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 23
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 22
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 21
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 20
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 19
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 18
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 17
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 16
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 15
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 14
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 13
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 12
+Os: OS X	Os_version:Mojave	Browser: firefox	Text: 11
+Os: OS X	Os_version:Mojave	Browser: opera	Text: 12.15
+Os: OS X	Os_version:Mojave	Browser: opera	Text: 12.14
+Os: OS X	Os_version:Mojave	Browser: opera	Text: 12.12
+Os: OS X	Os_version:High Sierra	Browser: safari	Text: 11.1
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 71
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 70
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 69
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 68
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 67
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 66
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 65
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 64
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 63
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 62
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 61
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 60
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 59
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 58
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 57
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 56
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 55
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 54
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 53
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 52
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 51
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 50
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 49
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 48
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 47
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 46
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 45
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 44
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 43
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 42
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 41
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 40
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 39
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 38
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 37
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 36
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 35
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 34
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 33
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 32
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 31
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 30
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 29
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 28
+Os: OS X	Os_version:High Sierra	Browser: chrome	Text: 27
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 63
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 62
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 61
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 60
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 59
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 58
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 57
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 56
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 55
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 54
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 53
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 52
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 51
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 50
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 49
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 48
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 47
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 46
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 45
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 44
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 43
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 42
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 41
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 40
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 39
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 38
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 37
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 36
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 35
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 34
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 33
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 32
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 31
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 30
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 29
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 28
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 27
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 26
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 25
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 24
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 23
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 22
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 21
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 20
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 19
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 18
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 17
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 16
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 15
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 14
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 13
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 12
+Os: OS X	Os_version:High Sierra	Browser: firefox	Text: 11
+Os: OS X	Os_version:High Sierra	Browser: opera	Text: 12.15
+Os: OS X	Os_version:High Sierra	Browser: opera	Text: 12.14
+Os: OS X	Os_version:High Sierra	Browser: opera	Text: 12.12
+Os: OS X	Os_version:Sierra	Browser: safari	Text: 10.1
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 71
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 70
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 69
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 68
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 67
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 66
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 65
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 64
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 63
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 62
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 61
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 60
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 59
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 58
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 57
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 56
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 55
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 54
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 53
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 52
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 51
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 50
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 49
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 48
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 47
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 46
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 45
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 44
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 43
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 42
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 41
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 40
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 39
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 38
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 37
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 36
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 35
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 34
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 33
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 32
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 31
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 30
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 29
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 28
+Os: OS X	Os_version:Sierra	Browser: chrome	Text: 27
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 63
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 62
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 61
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 60
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 59
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 58
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 57
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 56
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 55
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 54
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 53
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 52
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 51
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 50
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 49
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 48
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 47
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 46
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 45
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 44
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 43
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 42
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 41
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 40
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 39
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 38
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 37
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 36
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 35
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 34
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 33
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 32
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 31
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 30
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 29
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 28
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 27
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 26
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 25
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 24
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 23
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 22
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 21
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 20
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 19
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 18
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 17
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 16
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 15
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 14
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 13
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 12
+Os: OS X	Os_version:Sierra	Browser: firefox	Text: 11
+Os: OS X	Os_version:Sierra	Browser: opera	Text: 12.15
+Os: OS X	Os_version:Sierra	Browser: opera	Text: 12.14
+Os: OS X	Os_version:Sierra	Browser: opera	Text: 12.12
+Os: OS X	Os_version:El Capitan	Browser: safari	Text: 9.1
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 71
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 70
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 69
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 68
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 67
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 66
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 65
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 64
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 63
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 62
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 61
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 60
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 59
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 58
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 57
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 56
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 55
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 54
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 53
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 52
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 51
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 50
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 49
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 48
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 47
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 46
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 45
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 44
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 43
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 42
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 41
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 40
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 39
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 38
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 37
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 36
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 35
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 34
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 33
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 32
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 31
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 30
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 29
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 28
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 27
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 26
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 25
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 24
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 23
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 22
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 21
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 20
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 19
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 18
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 17
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 16
+Os: OS X	Os_version:El Capitan	Browser: chrome	Text: 14
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 63
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 62
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 61
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 60
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 59
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 58
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 57
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 56
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 55
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 54
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 53
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 52
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 51
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 50
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 49
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 48
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 47
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 46
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 45
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 44
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 43
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 42
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 41
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 40
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 39
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 38
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 37
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 36
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 35
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 34
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 33
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 32
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 31
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 30
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 29
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 28
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 27
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 26
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 25
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 24
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 23
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 22
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 21
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 20
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 19
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 18
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 17
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 16
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 15
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 14
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 13
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 12
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 11
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 10
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 9
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 8
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 7
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 6
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 5
+Os: OS X	Os_version:El Capitan	Browser: firefox	Text: 4
+Os: OS X	Os_version:El Capitan	Browser: opera	Text: 12.15
+Os: OS X	Os_version:El Capitan	Browser: opera	Text: 12.14
+Os: OS X	Os_version:El Capitan	Browser: opera	Text: 12.12
+Os: OS X	Os_version:Yosemite	Browser: safari	Text: 8
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 71
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 70
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 69
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 68
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 67
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 66
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 65
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 64
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 63
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 62
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 61
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 60
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 59
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 58
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 57
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 56
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 55
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 54
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 53
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 52
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 51
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 50
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 49
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 48
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 47
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 46
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 45
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 44
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 43
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 42
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 41
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 40
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 39
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 38
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 37
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 36
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 35
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 34
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 33
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 32
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 31
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 30
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 29
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 28
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 27
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 26
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 25
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 24
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 23
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 22
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 21
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 20
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 19
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 18
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 17
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 16
+Os: OS X	Os_version:Yosemite	Browser: chrome	Text: 14
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 63
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 62
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 61
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 60
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 59
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 58
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 57
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 56
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 55
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 54
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 53
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 52
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 51
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 50
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 49
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 48
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 47
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 46
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 45
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 44
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 43
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 42
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 41
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 40
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 39
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 38
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 37
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 36
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 35
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 34
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 33
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 32
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 31
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 30
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 29
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 28
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 27
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 26
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 25
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 24
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 23
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 22
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 21
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 20
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 19
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 18
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 17
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 16
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 15
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 14
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 13
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 12
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 11
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 10
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 9
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 8
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 7
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 6
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 5
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 4
+Os: OS X	Os_version:Yosemite	Browser: firefox	Text: 3.6
+Os: OS X	Os_version:Yosemite	Browser: opera	Text: 12.15
+Os: OS X	Os_version:Yosemite	Browser: opera	Text: 12.14
+Os: OS X	Os_version:Yosemite	Browser: opera	Text: 12.12
+Os: OS X	Os_version:Mavericks	Browser: safari	Text: 7.1
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 67
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 66
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 65
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 64
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 63
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 62
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 61
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 60
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 59
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 58
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 57
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 56
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 55
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 54
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 53
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 52
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 51
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 50
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 49
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 48
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 47
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 46
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 45
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 44
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 43
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 42
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 41
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 40
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 39
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 38
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 37
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 36
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 35
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 34
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 33
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 32
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 31
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 30
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 29
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 28
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 27
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 26
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 25
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 24
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 23
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 22
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 21
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 20
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 19
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 18
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 17
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 16
+Os: OS X	Os_version:Mavericks	Browser: chrome	Text: 14
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 63
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 62
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 61
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 60
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 59
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 58
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 57
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 56
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 55
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 54
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 53
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 52
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 51
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 50
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 49
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 48
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 47
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 46
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 45
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 44
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 43
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 42
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 41
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 40
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 39
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 38
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 37
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 36
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 35
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 34
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 33
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 32
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 31
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 30
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 29
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 28
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 27
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 26
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 25
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 24
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 23
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 22
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 21
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 20
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 19
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 18
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 17
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 16
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 15
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 14
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 13
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 12
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 11
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 10
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 9
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 8
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 7
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 6
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 5
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 4
+Os: OS X	Os_version:Mavericks	Browser: firefox	Text: 3.6
+Os: OS X	Os_version:Mavericks	Browser: opera	Text: 12.15
+Os: OS X	Os_version:Mavericks	Browser: opera	Text: 12.14
+Os: OS X	Os_version:Mavericks	Browser: opera	Text: 12.12
+Os: OS X	Os_version:Mavericks	Browser: opera	Text: 12
+Os: OS X	Os_version:Mavericks	Browser: opera	Text: 11.6
+Os: OS X	Os_version:Mountain Lion	Browser: safari	Text: 6.2
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 49
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 48
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 47
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 45
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 44
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 43
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 42
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 41
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 40
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 39
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 38
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 37
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 36
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 35
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 34
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 33
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 32
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 31
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 30
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 29
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 28
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 27
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 26
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 25
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 24
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 23
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 22
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 21
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 20
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 19
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 18
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 17
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 16
+Os: OS X	Os_version:Mountain Lion	Browser: chrome	Text: 14
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 48
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 47
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 46
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 45
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 44
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 43
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 42
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 41
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 40
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 39
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 38
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 37
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 36
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 35
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 34
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 33
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 32
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 31
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 30
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 29
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 28
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 27
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 26
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 25
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 24
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 23
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 22
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 21
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 20
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 19
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 18
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 17
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 16
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 15
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 14
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 13
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 12
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 11
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 10
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 9
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 8
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 7
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 6
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 5
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 4
+Os: OS X	Os_version:Mountain Lion	Browser: firefox	Text: 3.6
+Os: OS X	Os_version:Mountain Lion	Browser: opera	Text: 12.15
+Os: OS X	Os_version:Mountain Lion	Browser: opera	Text: 12.14
+Os: OS X	Os_version:Mountain Lion	Browser: opera	Text: 12.12
+Os: OS X	Os_version:Mountain Lion	Browser: opera	Text: 12
+Os: OS X	Os_version:Mountain Lion	Browser: opera	Text: 11.6
+Os: OS X	Os_version:Lion	Browser: safari	Text: 6
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 49
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 48
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 47
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 46
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 45
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 44
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 43
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 42
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 41
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 40
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 39
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 38
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 37
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 36
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 35
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 34
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 33
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 32
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 31
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 30
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 29
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 28
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 27
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 26
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 25
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 24
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 23
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 22
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 21
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 20
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 19
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 18
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 17
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 16
+Os: OS X	Os_version:Lion	Browser: chrome	Text: 14
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 43
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 42
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 41
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 40
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 38
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 37
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 36
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 35
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 34
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 33
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 32
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 31
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 30
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 29
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 28
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 27
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 26
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 25
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 24
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 23
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 22
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 21
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 20
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 19
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 18
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 17
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 16
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 15
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 14
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 13
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 12
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 11
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 10
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 9
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 8
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 7
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 6
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 5
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 4
+Os: OS X	Os_version:Lion	Browser: firefox	Text: 3.6
+Os: OS X	Os_version:Lion	Browser: opera	Text: 12.15
+Os: OS X	Os_version:Lion	Browser: opera	Text: 12.14
+Os: OS X	Os_version:Lion	Browser: opera	Text: 12.12
+Os: OS X	Os_version:Lion	Browser: opera	Text: 12
+Os: OS X	Os_version:Lion	Browser: opera	Text: 11.6
+Os: OS X	Os_version:Snow Leopard	Browser: safari	Text: 5.1*
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 49
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 48
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 47
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 46
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 45
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 44
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 43
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 42
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 41
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 40
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 39
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 38
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 37
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 36
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 35
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 34
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 33
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 32
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 31
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 30
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 29
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 28
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 27
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 26
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 25
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 24
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 23
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 22
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 21
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 20
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 19
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 18
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 17
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 16
+Os: OS X	Os_version:Snow Leopard	Browser: chrome	Text: 14
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 42
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 41
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 40
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 39
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 38
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 37
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 36
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 35
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 34
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 33
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 32
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 31
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 30
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 29
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 28
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 27
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 26
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 25
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 24
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 23
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 22
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 21
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 20
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 19
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 18
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 17
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 16
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 15
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 14
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 13
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 12
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 11
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 10
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 9
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 8
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 7
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 6
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 5
+Os: OS X	Os_version:Snow Leopard	Browser: firefox	Text: 4
+Os: OS X	Os_version:Snow Leopard	Browser: opera	Text: 12.15
+Os: OS X	Os_version:Snow Leopard	Browser: opera	Text: 12.14
+Os: OS X	Os_version:Snow Leopard	Browser: opera	Text: 12.12
+Os: OS X	Os_version:Snow Leopard	Browser: opera	Text: 12
+Os: OS X	Os_version:Snow Leopard	Browser: opera	Text: 11.6
